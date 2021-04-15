@@ -1,0 +1,3 @@
+,input_size,jpeg_size,output_shape,compression,jpeg_compression,macs_base_encoder,params_base_encoder,macs_compressor,params_compressor,macs_decoder,params_decoder,Setting,Iou50:95,Iou50
+0,768,404049,"[1, 48, 96, 96]",0.25,0.2283443874782986,2272760954.0,176854,0.0,0.0,9201047803.0,7963493,Teacher,0.4216,0.613
+1,768,404049,"[1, 48, 96, 96]",0.25,0.2283443874782986,2272760954.0,176854,332667948.0,43308.0,9201047803.0,7963493,1.0,0.4164,0.6081
