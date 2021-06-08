@@ -16,7 +16,7 @@ effdet_urls = [
 for url in effdet_urls:
     wget.download(url, out="./resource/ckpt")
 
-gdown.download('https://drive.google.com/u/0/uc?export=download&confirm=XsPB&id=1K7MNVuW99uDMHciewVS71hks_YdU9_2A',
+gdown.download('https://drive.google.com/u/0/uc?export=download&confirm=XsPB&id=137CGqAbOX4l2o2y9wvVUF2kFWJD9lgJM',
                'icpr2020.zip')
 gdown.download('https://drive.google.com/u/0/uc?export=download&confirm=XsPB&id=1qdClbGL5KwgEc4oG023DJckQiidNHDF2',
                'acod_weights.zip')
