@@ -1,17 +1,18 @@
-# Single-Training Collaborative Object Detectors Adaptive to Bandwidth and Computation
+# Collaborative Object Detectors Adaptive to Bandwidth and Computation
 
+**!News: This paper has been accepted to ICASSP 2022**
 
-This is the repository for our preprint @ https://arxiv.org/abs/2105.00591. If you want to cite us please use the bibtex bellow:
+The final version will be uploaded soon, until then check our preprint @ https://arxiv.org/abs/2105.00591. 
+If you want to cite us please use the bibtex bellow:
 
 ```
 @article{assine2021single,
-  title={Single-Training Collaborative Object Detectors
-         Adaptive to Bandwidth and Computation},
+  title={Collaborative Object Detectors Adaptive to Bandwidth and Computation},
   author={Assine, Juliano S and Santos Filho, JCS and Valle, Eduardo},
-  year={2021},
-  eprint={arXiv preprint arXiv:2105.00591},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  booktitle={ICASSP 2022-2022 IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={4467--4471},
+  year={2022},
+  organization={IEEE}
 }
 
 ```
