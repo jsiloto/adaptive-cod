@@ -6,7 +6,7 @@ The final version will be uploaded soon, until then check our preprint @ https:/
 If you want to cite us please use the bibtex bellow:
 
 ```
-@inproceedings{assine2021single,
+@inproceedings{assine2022single,
   title={Collaborative Object Detectors Adaptive to Bandwidth and Computation},
   author={Assine, Juliano S and Santos Filho, JCS and Valle, Eduardo},
   booktitle={ICASSP 2022-2022 IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)},
